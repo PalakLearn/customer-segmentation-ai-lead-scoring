@@ -41,4 +41,4 @@ Automate segmentation and lead scoring using customer behavior and AI-based rule
 
 ## ✍️ Author
 Palak Chaturvedi  
-[LinkedIn](https://linkedin.com/in/palak-chaturvedi) | [Portfolio](https://www.notion.so/Customer-Segmentation-AI-Powered-Lead-Scoring-237080ad24ae802b9f6dcea307d40524?pvs=12)
+[LinkedIn](https://www.linkedin.com/in/palak-chaturvedi-a25323211/) | [Portfolio](https://www.notion.so/Customer-Segmentation-AI-Powered-Lead-Scoring-237080ad24ae802b9f6dcea307d40524?pvs=12)
